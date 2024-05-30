@@ -1,0 +1,5 @@
+secret.py
+__pycache__
+.venv
+flagged
+*.github

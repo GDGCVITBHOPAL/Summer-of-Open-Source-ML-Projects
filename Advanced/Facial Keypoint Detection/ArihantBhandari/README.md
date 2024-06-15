@@ -23,8 +23,8 @@ To achieve our goals, the following steps were implemented:
 ##### Images with Actual Keypoints
 
 <p align="center">
-  <img src="https://github.com/Arihant-Bhandari/DL-Simplified/blob/facial-keypoint/Facial%20Keypoint%20Detection%20using%20DL/Images/EDA%201.png" height="400px" width="400px" />
-  <img src="https://github.com/Arihant-Bhandari/DL-Simplified/blob/facial-keypoint/Facial%20Keypoint%20Detection%20using%20DL/Images/EDA%202.png" height="400px" width="400px" />
+  <img src="https://github.com/DSCVITBHOPAL/Summer-of-Open-Source-ML-Projects/blob/facial-keypoint/Advanced/Facial%20Keypoint%20Detection/ArihantBhandari/Images/EDA%201.png" height="400px" width="400px" />
+  <img src="https://github.com/DSCVITBHOPAL/Summer-of-Open-Source-ML-Projects/blob/facial-keypoint/Advanced/Facial%20Keypoint%20Detection/ArihantBhandari/Images/EDA%202.png" height="400px" width="400px" />
 </p>
 
 ### 📈 **Performance of the Models based on the Accuracy Scores**

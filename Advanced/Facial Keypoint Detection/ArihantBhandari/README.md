@@ -27,11 +27,11 @@ To achieve our goals, the following steps were implemented:
   <img src="https://github.com/DSCVITBHOPAL/Summer-of-Open-Source-ML-Projects/blob/facial-keypoint/Advanced/Facial%20Keypoint%20Detection/ArihantBhandari/Images/EDA%202.png" height="400px" width="400px" />
 </p>
 
-### 📈 **Performance of the Models based on the Accuracy Scores**
+### **Performance of the Models based on the Accuracy Scores**
 
 #### Metrics: 
 
-We used Validation and Test **Mean Squared Error (MSE)** and **Mean Absolute Error (MAE)** as metrics.
+We used **Validation** and **Test** **Mean Squared Error (MSE)** and **Mean Absolute Error (MAE)** as metrics.
 
 | Models | Validation MSE | Validation MAE | Test MSE | Test MAE |
 |--------|---------------------|--------------------------|---------------------|--------------------------|

@@ -1,8 +1,8 @@
-### 🎯 **Goal**
+### **Goal**
 
 The objective of this project is to predict 15 essential facial key-points like center of eyes, edge-points of eyebrows and so on by using images.
 
-### 🧮 **Methodology Followed**
+### **Methodology Followed**
 
 To achieve our goals, the following steps were implemented:
 
@@ -16,7 +16,7 @@ To achieve our goals, the following steps were implemented:
 
 - Custom and pre-trained models were used for this task.
 
-### 📊 **Exploratory Data Analysis Results**
+### **Exploratory Data Analysis Results**
 
 #### **EDA**
 
@@ -43,7 +43,7 @@ We used Validation and Test **Mean Squared Error (MSE)** and **Mean Absolute Err
 | DenseNet-121 | 0.0019 | 0.0245 | 0.0017 | 0.0240 |
 | Xception | 0.0019 | 0.0240 | 0.0018 | 0.0239 |
 
-### 📢 **Conclusion**
+### **Conclusion**
 
 We conclude the following:
 
